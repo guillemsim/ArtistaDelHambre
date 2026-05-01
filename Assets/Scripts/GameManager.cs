@@ -13,4 +13,14 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
+    public void Interact()
+    {
+        Debug.Log("Jajasi");
+    }
+    public string GetInteractPrompt()
+    {
+        return "E";
+    }
+
 }
