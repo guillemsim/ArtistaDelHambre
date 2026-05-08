@@ -1,3 +1,4 @@
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,12 +9,16 @@ public class PlayerScript : MonoBehaviour
     SpriteRenderer _renderer;
 
     public float velocidad;
+    public float _raycast;
+    int _layerMask;
+
 
     void Start()
     {
         _rb = GetComponent<Rigidbody>();
         _animator = GetComponent<Animator>();
         _renderer = GetComponent<SpriteRenderer>();
+        _layerMask = LayerMask.GetMask("Terreno");
     }
 
     void Update()
@@ -45,7 +50,8 @@ public class PlayerScript : MonoBehaviour
         }
         */
 
-        //Flip del personaje Izd/Der
+        ///Flip del personaje
+        //Izd/Der
         if (moveInput.x < 0)
         {
             _renderer.flipX = false;
@@ -54,8 +60,7 @@ public class PlayerScript : MonoBehaviour
         {
             _renderer.flipX = true;
         }
-
-        //Flip del personaje Arr/Ab
+        //Arr/Ab
         if (moveInput.y < 0)
         {
             _renderer.flipY = false;
@@ -63,6 +68,17 @@ public class PlayerScript : MonoBehaviour
         else if (moveInput.y > 0)
         {
             _renderer.flipY = true;
+        }
+
+        /// Raycasting
+        // Variable para definir la altura a la que esta el personaje
+        float suspensionHeight = 0f + _raycast;
+        // Teleporta al player al punto al que intersecta el suelo
+        RaycastHit hit;
+        Ray ray = new Ray(transform.position, Vector3.down);
+        if (Physics.Raycast(ray, out hit, 2f, _layerMask))
+        {
+            transform.position = hit.point + hit.normal * suspensionHeight;
         }
         
     }

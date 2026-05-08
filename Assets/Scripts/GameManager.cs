@@ -3,38 +3,29 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public float timeRemaining = 60; // Set initial time in seconds
-    public bool timerIsRunning = false;
-    public Text timeText; // Reference to UI Text for displaying time
+    public float _timeRemaining; // Variable tiempo maximo 
+    public bool _timerIsRunning = false;
 
     private void Start()
     {
-        timerIsRunning = true; // Start the timer automatically
+        _timerIsRunning = true;
     }
 
     private void Update()
     {
-        if (timerIsRunning)
+        /// Tiempo
+        if (_timerIsRunning)
         {
-            if (timeRemaining > 0)
+            if (_timeRemaining > 0)
                 {
-                timeRemaining -= Time.deltaTime; // Decrease time
-                DisplayTime(timeRemaining); // Update UI
+                _timeRemaining -= Time.deltaTime; // Timer
                 }
             else
                 {
-                Debug.Log("Time's up!");
-                timeRemaining = 0;
-                timerIsRunning = false; // Stop the timer
+                Debug.Log("Tiempo Agotado");
+                _timeRemaining = 0;
+                _timerIsRunning = false; // Final del timer
                 }
         }
-    }
-
-private void DisplayTime(float timeToDisplay)
-    {
-    timeToDisplay += 1; // Adjust for display rounding
-    int minutes = Mathf.FloorToInt(timeToDisplay / 60);
-    int seconds = Mathf.FloorToInt(timeToDisplay % 60);
-    timeText.text = string.Format("{0:00}:{1:00}", minutes, seconds); // Format as MM:SS
     }
 }
