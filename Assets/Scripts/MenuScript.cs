@@ -12,12 +12,12 @@ public class MenuScript : MonoBehaviour
 
     public void ExitJuego()
     {
+        Debug.Log("Exit");
         Application.Quit();
     }
 
     private void Update()
     {
- //       if (InputSystem.actions["Move"].WasPressedThisFrame = true)
         {
             
         }
