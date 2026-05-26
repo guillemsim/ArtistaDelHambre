@@ -5,9 +5,9 @@ using UnityEngine.InputSystem;
 public class MenuScript : MonoBehaviour
 {
 
-    public void InicioJuego(int sceneID)
+    public void InicioJuego()
     {
-        SceneManager.LoadScene(sceneID);
+        SceneManager.LoadScene("Mapa_1");
     }
 
     public void ExitJuego()

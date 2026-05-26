@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public float _timeRemaining; // Variable tiempo maximo 
-    public bool _timerIsRunning = false;
+    public bool _timerIsRunning;
 
     private void Start()
     {
@@ -25,7 +26,12 @@ public class GameManager : MonoBehaviour
                 Debug.Log("Tiempo Agotado");
                 _timeRemaining = 0;
                 _timerIsRunning = false; // Final del timer
+                FinJuego();
                 }
-        }
+        }        
+    }
+    void FinJuego()
+    {
+        SceneManager.LoadScene("Mapa_Fin");
     }
 }
