@@ -9,12 +9,12 @@ public class PausaScript : MonoBehaviour
 
     private void Start()
     {
-        _MenuPausa.gameObject.SetActive(false);
+        _MenuPausa.SetActive(false);
     }
 
     private void Update()
     {
-        if (InputSystem.actions["Pause"].WasPressedThisFrame() == true)
+        if (InputSystem.actions["Pause"].WasPressedThisFrame())
          {
             if (_isPaused == false)
             {
@@ -30,15 +30,19 @@ public class PausaScript : MonoBehaviour
 
     public void PauseGame()
     {
-        Time.timeScale = 0;
+        
         _MenuPausa.SetActive(true);
         _isPaused = true;
+        //Time.timeScale = 0;
+        Debug.Log("Pausado");
     }
 
     public void ResumeGame()
     {
-        Time.timeScale = 1;
+        
         _MenuPausa.SetActive(false);
         _isPaused = false;
+        //Time.timeScale = 1;
+        Debug.Log("Continuando");
     }
 }
