@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class IntScript_1: MonoBehaviour
 {
@@ -30,6 +31,8 @@ public class IntScript_1: MonoBehaviour
         if(InputSystem.actions["Interact"].WasPressedThisFrame() == true && _interact == true)
         {
             Debug.Log("Interaccion Correcta Con Objeto 1");
+            SceneManager.LoadScene("Mapa_2");
+
         }
     }
 

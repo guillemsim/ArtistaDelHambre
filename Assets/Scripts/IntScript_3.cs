@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
-public class IntScript_2: MonoBehaviour
+public class IntScript_3: MonoBehaviour
 {
     private bool _interact;
     private Light _light;
@@ -31,8 +31,8 @@ public class IntScript_2: MonoBehaviour
         /// Script Interaccion
         if(InputSystem.actions["Interact"].WasPressedThisFrame() == true && _interact == true)
         {
-            SceneManager.LoadScene("Mapa_3");
-            Debug.Log("Interaccion Correcta Con Objeto 2");
+            SceneManager.LoadScene("Mapa_1");
+            Debug.Log("Interaccion Correcta Con Objeto 3");
         }
     }
 
