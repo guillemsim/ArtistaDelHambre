@@ -1,3 +1,4 @@
+
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -29,8 +30,8 @@ public class PlayerScript : MonoBehaviour
         transform.Translate(moveInput.x * velocidad * Time.deltaTime, 0,  moveInput.y * velocidad * Time.deltaTime);
 
         ///Animacion Mov
-        /*
-        //Animacion Caminar
+        
+        //Animacion Caminar. Hay movimiento en el eje X o en el eje Y? Si es asi, estaMoviendo = true, sino estaMoviendo = false
         if (moveInput.x != 0)
         {
             _animator.SetBool("estaMoviendo", true);
@@ -42,33 +43,36 @@ public class PlayerScript : MonoBehaviour
         //Animacion Swap Frente/Espalda
         if (moveInput.y != 0)
         {
-            _animator.SetBool("estaSubiendo", true);
+            _animator.SetBool("estaMoviendo", true);
         }
         else
         {
-            _animator.SetBool("estaSubiendo", false);
+            _animator.SetBool("estaMoviendo", false);
         }
-        */
+        
 
+        if (moveInput.y > 0)
+        {
+            _animator.SetBool("estaDeEspalda", true);
+        }
+        else if (moveInput.y < 0)
+        {
+            _animator.SetBool("estaDeEspalda", false);
+        }
+
+        
+        
         ///Flip del personaje
         //Izd/Der
-        if (moveInput.x < 0)
-        {
-            _renderer.flipX = false;
-        }
-        else if (moveInput.x > 0)
-        {
-            _renderer.flipX = true;
-        }
-        //Arr/Ab
-        if (moveInput.y < 0)
-        {
-            _renderer.flipY = false;
-        }
-        else if (moveInput.y > 0)
-        {
-            _renderer.flipY = true;
-        }
+        // if (moveInput.x < 0)
+        // {
+        //     _renderer.flipX = false;
+        // }
+        // else if (moveInput.x > 0)
+        // {
+        //     _renderer.flipX = true;
+        // }
+        
 
         /// Raycasting
         // Variable para definir la altura a la que esta el personaje
