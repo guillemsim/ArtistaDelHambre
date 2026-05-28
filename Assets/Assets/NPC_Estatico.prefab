@@ -8,6 +8,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 679225434042613643, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Mass
+      value: 999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 679225434042613643, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Constraints
+      value: 126
+      objectReference: {fileID: 0}
+    - target: {fileID: 679225434042613643, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 679225434042613643, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_LinearDamping
+      value: 999999
+      objectReference: {fileID: 0}
     - target: {fileID: 3133281211104585007, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.290001
@@ -50,7 +66,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
-      value: NPC_Estatico Variant
+      value: NPC_Estatico
       objectReference: {fileID: 0}
     - target: {fileID: 8903847661474159029, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_IncludeLayers.m_Bits
@@ -60,6 +76,7 @@ PrefabInstance:
     - {fileID: 2095172909959534318, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
     - {fileID: 3316501824732312704, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
     - {fileID: 7259702171063329290, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+    - {fileID: 679225434042613643, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
