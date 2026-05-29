@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 6551638801734651929}
   - component: {fileID: 142907764023213062}
   - component: {fileID: 1490589386837374514}
+  - component: {fileID: 7572097991724969758}
   m_Layer: 3
   m_Name: Personaje
   m_TagString: Untagged
@@ -277,3 +278,11 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!81 &7572097991724969758
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6345475758763221775}
+  m_Enabled: 1
