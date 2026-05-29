@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico
@@ -349,6 +353,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ace9677700c07b478313b339b4e0f98, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (11)
@@ -415,6 +423,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (5)
@@ -477,6 +489,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a7a1ab0c960f7d4bb8b479d9c07962d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (32)
@@ -847,6 +863,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (15)
@@ -1128,6 +1148,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ace9677700c07b478313b339b4e0f98, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (31)
@@ -1247,6 +1271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e38225d691ed29242b4cb125f29de82c, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (29)
@@ -1897,6 +1925,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (26)
@@ -2031,6 +2063,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (3)
@@ -2257,6 +2293,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a7a1ab0c960f7d4bb8b479d9c07962d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (18)
@@ -2318,6 +2358,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (1)
@@ -2661,6 +2705,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (15)
@@ -3068,6 +3116,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ace9677700c07b478313b339b4e0f98, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (20)
@@ -3262,6 +3314,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e38225d691ed29242b4cb125f29de82c, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (20)
@@ -3566,6 +3622,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (17)
@@ -3731,6 +3791,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a7a1ab0c960f7d4bb8b479d9c07962d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (21)
@@ -4017,6 +4081,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a7a1ab0c960f7d4bb8b479d9c07962d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (13)
@@ -4084,6 +4152,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (23)
@@ -4417,6 +4489,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e38225d691ed29242b4cb125f29de82c, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (8)
@@ -5077,6 +5153,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 02bc54f7269adb041acc0c064cc89608, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (10)
@@ -5367,6 +5447,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (16)
@@ -5429,6 +5513,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (27)
@@ -5746,6 +5834,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (18)
@@ -6301,6 +6393,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (25)
@@ -6582,6 +6678,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (24)
@@ -6868,6 +6968,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (16)
@@ -7784,6 +7888,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ace9677700c07b478313b339b4e0f98, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (19)
@@ -7903,6 +8011,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (9)
@@ -7974,6 +8086,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (8)
@@ -8157,6 +8273,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (19)
@@ -8218,6 +8338,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a7a1ab0c960f7d4bb8b479d9c07962d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (3)
@@ -8966,6 +9090,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e38225d691ed29242b4cb125f29de82c, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (10)
@@ -9815,6 +9943,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 02bc54f7269adb041acc0c064cc89608, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (22)
@@ -9881,6 +10013,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (9)
@@ -9938,6 +10074,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (12)
@@ -10284,6 +10424,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 58fdce8700497b14ebc646ac78270a66, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (14)
@@ -10719,6 +10863,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 134216cda0002644facc213ede84e44d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (4)
@@ -10781,6 +10929,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (2)
@@ -11012,6 +11164,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (1)
@@ -11625,6 +11781,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (7)
@@ -11752,6 +11912,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 02bc54f7269adb041acc0c064cc89608, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (12)
@@ -11921,6 +12085,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d94438715b5cb914898d959bcded9ac3, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (7)
@@ -12100,6 +12268,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (13)
@@ -12425,6 +12597,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73137c5b2847735458f550e470ee357d, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (6)
@@ -13084,6 +13260,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ace9677700c07b478313b339b4e0f98, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (11)
@@ -13262,6 +13442,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (17)
@@ -13729,6 +13913,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 02bc54f7269adb041acc0c064cc89608, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (30)
@@ -14469,6 +14657,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 02bc54f7269adb041acc0c064cc89608, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (21)
@@ -14610,6 +14802,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e38225d691ed29242b4cb125f29de82c, type: 3}
     - target: {fileID: 8357623528633614135, guid: fd09b1319c96e924286b8a52445efc5b, type: 3}
       propertyPath: m_Name
       value: NPC_Estatico (2)
@@ -14941,6 +15137,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3699665181927147067, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 358c71386002de548b742f07f343d3b6, type: 3}
     - target: {fileID: 8357623528633614135, guid: a7c5825338a3de24d9ebf4082ebdd659, type: 3}
       propertyPath: m_Name
       value: NPC_Publico (6)
