@@ -1788,6 +1788,69 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1001 &1063450215
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.57
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000002384186
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9636515
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.26716262
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 30.991
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f61149059af54194f92bd906b6d8b3e0, type: 2}
+    - target: {fileID: 919132149155446097, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+      propertyPath: m_Name
+      value: estatua_espacio_sonoro_1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+    - {fileID: -8700617353114198275, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
 --- !u!1001 &1097416224
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3141,70 +3204,6 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1001 &1895470525
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -6.57
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.0000023841858
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -11.91
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9636525
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.26715901
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 30.991
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -2571118854743697038, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: f61149059af54194f92bd906b6d8b3e0, type: 2}
-    - target: {fileID: 919132149155446097, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-      propertyPath: m_Name
-      value: estatua_espacio_sonoro_1 (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 65702495048144492, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-    - {fileID: -5117700066308340382, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-    - {fileID: -8700617353114198275, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
 --- !u!1 &1897943260
 GameObject:
   m_ObjectHideFlags: 0
@@ -3611,7 +3610,7 @@ SceneRoots:
   - {fileID: 1607641251}
   - {fileID: 1295069374}
   - {fileID: 2143472423}
-  - {fileID: 1895470525}
   - {fileID: 2132021452}
   - {fileID: 1336001994}
   - {fileID: 1097416224}
+  - {fileID: 1063450215}

@@ -61,18 +61,6 @@ public class PlayerScript : MonoBehaviour
         }
 
         
-        
-        ///Flip del personaje
-        //Izd/Der
-        // if (moveInput.x < 0)
-        // {
-        //     _renderer.flipX = false;
-        // }
-        // else if (moveInput.x > 0)
-        // {
-        //     _renderer.flipX = true;
-        // }
-        
 
         /// Raycasting
         // Variable para definir la altura a la que esta el personaje
