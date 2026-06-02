@@ -80,7 +80,7 @@ public class PlayerScript : MonoBehaviour
         // Teleporta al player al punto al que intersecta el suelo
         RaycastHit hit;
         Ray ray = new Ray(transform.position, Vector3.down);
-        if (Physics.Raycast(ray, out hit, 4f, _layerMask))
+        if (Physics.Raycast(ray, out hit, 6f, _layerMask))
         {
             transform.position = hit.point + hit.normal * suspensionHeight;
         }

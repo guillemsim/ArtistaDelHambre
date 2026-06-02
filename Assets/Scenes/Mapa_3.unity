@@ -1391,7 +1391,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2569301322795450606, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.86
+      value: 4.68
       objectReference: {fileID: 0}
     - target: {fileID: 2569301322795450606, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3198,7 +3198,10 @@ PrefabInstance:
       value: estatua_espacio_sonoro_1 (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+    - {fileID: -5117700066308340382, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
+    - {fileID: -8700617353114198275, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9405b12b74a0d44da760166fcfcb095, type: 3}
