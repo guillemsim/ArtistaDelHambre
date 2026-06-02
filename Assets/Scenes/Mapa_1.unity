@@ -3668,7 +3668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8c01478c9ebb8d47a91f28012416b6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  _timeRemaining: 300
+  _timeRemaining: 0
   _timerIsRunning: 0
 --- !u!4 &527033073
 Transform:
