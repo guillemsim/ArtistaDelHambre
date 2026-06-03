@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: a34fe6c5720b4de44ab0950feedf0186, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 0b8d46f63181b8a47b4f8ef4e1474958, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -3502,3 +3502,6 @@ SceneRoots:
   - {fileID: 481291553}
   - {fileID: 1607641251}
   - {fileID: 1295069374}
+  - {fileID: 1063450215}
+  - {fileID: 1336001994}
+  - {fileID: 1097416224}
