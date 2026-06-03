@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.16131186, g: 0.19215485, b: 0.23584908, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 0b8d46f63181b8a47b4f8ef4e1474958, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -2575,7 +2575,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0.21345663, y: 0, z: 0, w: 0.97695255}
-  m_LocalPosition: {x: 3.87, y: 24.08296, z: -36.354904}
+  m_LocalPosition: {x: 3.8, y: 27.322962, z: -36.354904}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5081,7 +5081,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2e631594ebde9df42b2aaa36922459fb, type: 2}
+  - {fileID: 2100000, guid: a6993c119307e2247bb1dbbafc5520eb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7058,7 +7058,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b0b9b570515e84f4692559e0dafeb368, type: 2}
+  - {fileID: 2100000, guid: a6993c119307e2247bb1dbbafc5520eb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14460,7 +14460,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c3979b0d17b5d5a4fa7ec3d398e1eb34, type: 2}
+  - {fileID: 2100000, guid: e4f90a8e4308ae74b99976fb8fe149ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14866,7 +14866,7 @@ Transform:
   m_GameObject: {fileID: 2058822659}
   serializedVersion: 2
   m_LocalRotation: {x: 0.21345663, y: 0, z: 0, w: 0.97695255}
-  m_LocalPosition: {x: 3.87, y: 24.08296, z: -36.354904}
+  m_LocalPosition: {x: 3.8, y: 27.322962, z: -36.354904}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16153,26 +16153,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2193822447509012699, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: eb62b891fcc9db44da13c23b0798a5bd, type: 2}
     - target: {fileID: 2289055933402837906, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_FlipX
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2289055933402837906, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_Size.x
-      value: 3.3343654
+      value: 20.006191
       objectReference: {fileID: 0}
     - target: {fileID: 2289055933402837906, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_Size.y
-      value: 4.26
+      value: 25.56
       objectReference: {fileID: 0}
-    - target: {fileID: 2289055933402837906, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: b98c4d2a084090b41b5bc6b0fee8f8ca, type: 3}
     - target: {fileID: 2289055933402837906, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -16195,11 +16187,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2569301322795450606, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.87
+      value: 3.8
       objectReference: {fileID: 0}
     - target: {fileID: 2569301322795450606, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.52
+      value: 9.76
       objectReference: {fileID: 0}
     - target: {fileID: 2569301322795450606, guid: fe83ffe531d93d64c93523f78e542e1f, type: 3}
       propertyPath: m_LocalPosition.z
